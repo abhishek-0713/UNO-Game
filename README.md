@@ -17,8 +17,6 @@ https://github.com/abhishek-0713/UNO-Game.git
 ````
 
 ### Tutorial:
-
-<details>
   
   --------------------------- Welcome to UNO! ---------------------------
 #### Before we begin, let's go through a quick tutorial to get you started.
@@ -38,8 +36,7 @@ https://github.com/abhishek-0713/UNO-Game.git
 Are you ready to have some fun? Let's start playing UNO!
 
 ------------------------- Thank You ---------------------------
-   
-</details>
+
 
 ### Sample Play:
 

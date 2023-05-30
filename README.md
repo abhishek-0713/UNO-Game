@@ -1,4 +1,4 @@
-# swiggy-assignment - `UNO-Game`
+# swiggy-assignment - `UNO Game`
 Swiggy Round 1 coding test
 
 ### How to Play the Game: 

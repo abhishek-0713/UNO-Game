@@ -1,7 +1,7 @@
 # swiggy-assignment - `UNO Game`
 Swiggy Round 1 coding test
 
-### How to Play the Game: 
+### How to run the application: 
 
 1. Download and install an IDE such as `Eclipse` or `IntelliJ IDEA`.
 2. Clone or download the project from the source repository.
@@ -16,7 +16,7 @@ Swiggy Round 1 coding test
 https://github.com/abhishek-0713/UNO-Game.git
 ````
 
-### Tutorial:
+### Tutorial: How to Play the Game
   
   --------------------------- Welcome to UNO! ---------------------------
 #### Before we begin, let's go through a quick tutorial to get you started.
